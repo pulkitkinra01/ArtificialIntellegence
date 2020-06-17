@@ -1,6 +1,9 @@
 ## Artificial Intelligence
+This repository represents a collection of personal AI and Data Science projects. This portfolio does not include any research papers due to confidential reasons. All the projects available are shown for learning purpose only.
 
-
+<!-- SAMPLE ->
+https://github.com/sungsujaing/Artificial_Intelligence_articles_and_tutorials/blob/master/README.md
+-->
 <!--
 You can use the [editor on GitHub](https://github.com/pulkitkinra01/ArtificialIntellegence/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 -->
